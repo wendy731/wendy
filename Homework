@@ -1,0 +1,11 @@
+i need answer for this. Please help me
+The factorial of a non-negative integer  𝑛  is expressed recursively by:
+$$
+n! = 
+\begin{cases}
+1 & n = 0 \\
+(n - 1)! \,n & n > 0
+\end{cases}
+$$
+ 
+Develop a function named factorial for computing the factorial using recursion. Test your function against the math.factorial function, e.g.
